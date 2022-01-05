@@ -1,0 +1,7 @@
+.place__website {
+  grid-area: website;
+  align-self: end;
+}
+.place__website:hover {
+  cursor: pointer;
+}
