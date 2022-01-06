@@ -13,6 +13,11 @@
     width: 73%;
   }
 }
+@media screen and (max-width: 584px) {
+  .cover__title {
+    width: 88%;
+  }
+}
 @media screen and (max-width: 540px) {
   .cover__title {
     width: 72%;

@@ -5,3 +5,8 @@
 .place__website:hover {
   cursor: pointer;
 }
+@media screen and (max-width: 540px) {
+  .place__website {
+    padding: 0px 5% 0px;
+  }
+}

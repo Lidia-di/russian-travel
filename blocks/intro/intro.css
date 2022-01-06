@@ -3,7 +3,6 @@
   text-align: left;
   padding-left: 11.5%;
   padding-bottom: 92px;
-  box-sizing: border-box;
 }
 @media screen and (max-width: 1120px) {
   .intro {

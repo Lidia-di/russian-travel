@@ -4,6 +4,14 @@
 }
 @media screen and (max-width: 960px) {
   .photo-grid {
-    padding-bottom: calc(64px - 16px);
+    padding-bottom: 64px;
+    padding-left: 3.1%;
+    padding-right: 3.1%;
+  }
+}
+@media screen and (max-width: 540px) {
+  .photo-grid {
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
